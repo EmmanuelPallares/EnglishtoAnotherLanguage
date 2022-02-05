@@ -6,7 +6,7 @@ export default function Translate() {
   return (
     <div>
       <div className="app-header">
-        <h2 className="header">PAPRI TRANSLATE</h2>
+        <h2 className="header">VITOZ.DEV TRANSLATE</h2>
       </div>
 
       <div className="app-body">
